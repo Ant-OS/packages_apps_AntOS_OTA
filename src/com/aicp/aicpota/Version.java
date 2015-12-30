@@ -18,7 +18,7 @@
  * along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.aicp.aicpota;
+package com.antos.antosota;
 
 import java.io.Serializable;
 
